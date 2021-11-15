@@ -3,6 +3,15 @@
 - 🌱 I’m currently learning a lot.
 - 💞️ I’m looking to collaborate on any of the above interests.
 - 📫 How to reach me: anthony@makersmasher.com
+-
+Contact me:
+[twitter] [linkedin] [email]
+
+Latest Blog Posts
+
+### Latest Blog Posts
+<!-- BLOG_POST_LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!---
 makersmasher/makersmasher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
